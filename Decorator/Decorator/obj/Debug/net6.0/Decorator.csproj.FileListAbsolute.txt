@@ -1,0 +1,14 @@
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\bin\Debug\net6.0\Decorator.exe
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\bin\Debug\net6.0\Decorator.deps.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\bin\Debug\net6.0\Decorator.runtimeconfig.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\bin\Debug\net6.0\Decorator.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\bin\Debug\net6.0\Decorator.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\obj\Debug\net6.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\obj\Debug\net6.0\Decorator.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\obj\Debug\net6.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\obj\Debug\net6.0\Decorator.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\obj\Debug\net6.0\refint\Decorator.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\obj\Debug\net6.0\Decorator.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\obj\Debug\net6.0\Decorator.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Decorator\Decorator\obj\Debug\net6.0\ref\Decorator.dll

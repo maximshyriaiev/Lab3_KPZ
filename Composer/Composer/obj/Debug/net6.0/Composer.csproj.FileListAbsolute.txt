@@ -1,0 +1,14 @@
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\bin\Debug\net6.0\Composer.exe
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\bin\Debug\net6.0\Composer.deps.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\bin\Debug\net6.0\Composer.runtimeconfig.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\bin\Debug\net6.0\Composer.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\bin\Debug\net6.0\Composer.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\obj\Debug\net6.0\Composer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\obj\Debug\net6.0\Composer.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\obj\Debug\net6.0\Composer.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\obj\Debug\net6.0\Composer.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\obj\Debug\net6.0\Composer.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\obj\Debug\net6.0\refint\Composer.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\obj\Debug\net6.0\Composer.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\obj\Debug\net6.0\Composer.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Composer\Composer\obj\Debug\net6.0\ref\Composer.dll

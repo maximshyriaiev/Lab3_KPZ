@@ -1,0 +1,14 @@
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\bin\Debug\net6.0\Adapter.exe
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\bin\Debug\net6.0\Adapter.deps.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\bin\Debug\net6.0\Adapter.runtimeconfig.json
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\bin\Debug\net6.0\Adapter.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\bin\Debug\net6.0\Adapter.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\obj\Debug\net6.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\obj\Debug\net6.0\Adapter.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\obj\Debug\net6.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\obj\Debug\net6.0\Adapter.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\obj\Debug\net6.0\refint\Adapter.dll
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\obj\Debug\net6.0\Adapter.pdb
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\obj\Debug\net6.0\Adapter.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\ЛАБЫ 2 СЕМЕСТР\2\КПЗ\Lab_3_KPZ_Maksym_Shyriaiev\Adapter\Adapter\obj\Debug\net6.0\ref\Adapter.dll
